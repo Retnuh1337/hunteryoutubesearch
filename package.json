@@ -12,6 +12,7 @@
     "node": "8.1.2"
   },
   "devDependencies": {
+    "react-dev-utils": "^3.0.2",
     "react-scripts": "^1.0.10"
   },
   "scripts": {
