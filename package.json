@@ -1,7 +1,7 @@
 {
   "name": "youtubesearch",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "cross-spawn": "^5.1.0",
     "lodash": "^4.17.4",
